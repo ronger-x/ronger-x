@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋  
+:tada::tada::tada:  
+我们正在构建一个即严谨又活泼、专业又不失有趣，为数百万人服务的开源嵌入式知识学习交流平台,欢迎你的加入:  
 
+- [RYMCU](https://rymcu.com) —— 一个嵌入式知识学习交流平台
+- [Nebula-Helper](https://github.com/rymcu/nebula-helper) —— 一个现代化的串口调试助手
 <!--
 **ronger-x/ronger-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
