@@ -3,7 +3,8 @@
 我们正在构建一个即严谨又活泼、专业又不失有趣，为数百万人服务的开源嵌入式知识学习交流平台,欢迎你的加入:  
 
 - [RYMCU](https://rymcu.com) —— 一个嵌入式知识学习交流平台
-- [Nebula-Helper](https://github.com/rymcu/nebula-helper) —— 一个现代化的串口调试助手
+- [Nebula-Helper](https://github.com/rymcu/nebula-helper) —— 一款现代化的串口调试助手,使用 Vue + Electron + node-serialport 实现
+- [nebula](https://github.com/ronger-x/nebula) —— 一款现代化的知识社区前台项目,使用 Vue + NuxtJS + Element-UI 实现
 
 <!--
 **ronger-x/ronger-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
