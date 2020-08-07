@@ -4,7 +4,8 @@
 
 - [RYMCU](https://rymcu.com) —— 一个嵌入式知识学习交流平台
 - [Nebula-Helper](https://github.com/rymcu/nebula-helper) —— 一款现代化的串口调试助手,使用 Vue + Electron + node-serialport 实现
-- [nebula](https://github.com/ronger-x/nebula) —— 一款现代化的知识社区前台项目,使用 Vue + NuxtJS + Element-UI 实现
+- [nebula](https://github.com/ronger-x/nebula) —— 一款现代化的知识社区前台项目,使用 Vue + NuxtJS + Element-UI 实现, 与 vertical 配套
+- [vertical](https://github.com/rymcu/vertical) —— 一款使用 SpringBoot + Mybatis + mysql 实现的知识社区后台项目, 与 nebula 配套
 
 <!--
 **ronger-x/ronger-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
