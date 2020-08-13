@@ -7,6 +7,8 @@
 - [nebula](https://github.com/ronger-x/nebula) —— 一款现代化的知识社区前台项目,使用 Vue + NuxtJS + Element-UI 实现, 与 vertical 配套
 - [vertical](https://github.com/rymcu/vertical) —— 一款使用 SpringBoot + Mybatis + mysql 实现的知识社区后台项目, 与 nebula 配套
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=ronger-x&show_icons=true&hide_border=true)
+
 <!--
 **ronger-x/ronger-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
