@@ -1,4 +1,3 @@
-### Hi there 👋  
 :tada::tada::tada:  
 我们正在构建一个即严谨又活泼、专业又不失有趣，为数百万人服务的开源嵌入式知识学习交流平台,欢迎你的加入:  
 
@@ -7,19 +6,24 @@
 - [nebula](https://github.com/ronger-x/nebula) —— 一款现代化的知识社区前台项目,使用 Vue + NuxtJS + Element-UI 实现, 与 vertical 配套
 - [vertical](https://github.com/rymcu/vertical) —— 一款使用 SpringBoot + Mybatis + mysql 实现的知识社区后台项目, 与 nebula 配套
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ronger-x&show_icons=true&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/ronger-x?style=for-the-badge&color=blue)](https://github.com/ronger-x?tab=followers)
+[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Blog&url=https://rymcu.com/user/ronger)](https://rymcu.com/user/ronger)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ronger-x/ronger-x?label=update&style=for-the-badge&color=orange)](https://github.com/ronger-x/ronger-x)
 
-<!--
-**ronger-x/ronger-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td valign="top" width="54%">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![ronger's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=ronger-x&count_private=true&show_icons=true&theme=tokyonight)
+
+</td>
+
+<td valign="top" width="46%">
+
+
+![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=ronger-x&layout=compact&theme=tokyonight)
+
+</td>
+</tr>
+</table>
