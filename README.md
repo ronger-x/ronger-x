@@ -10,20 +10,6 @@
 [![Website](https://img.shields.io/website?style=for-the-badge&up_message=Blog&url=https://rymcu.com/user/ronger)](https://rymcu.com/user/ronger)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ronger-x/ronger-x?label=update&style=for-the-badge&color=orange)](https://github.com/ronger-x/ronger-x)
 
-<table>
-<tr>
-<td valign="top" width="54%">
-
-
+![ronger's github stats](https://github-profile-trophy.vercel.app/?username=ronger-x)
 ![ronger's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=ronger-x&count_private=true&show_icons=true&theme=tokyonight)
-
-</td>
-
-<td valign="top" width="46%">
-
-
 ![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=ronger-x&layout=compact&theme=tokyonight)
-
-</td>
-</tr>
-</table>
