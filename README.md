@@ -11,5 +11,5 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/ronger-x/ronger-x?label=update&style=for-the-badge&color=orange)](https://github.com/ronger-x/ronger-x)
 
 ![ronger's github stats](https://github-profile-trophy.vercel.app/?username=ronger-x)
-![ronger's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=ronger-x&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=ronger-x&layout=compact&theme=tokyonight)
+![ronger's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=ronger-x&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=ronger-x&layout=compact)
