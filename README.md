@@ -14,4 +14,4 @@
 ![ronger's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=ronger-x&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=ronger-x&layout=compact)
 
-In 2021, I made 287 contributions and modified 24,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/ronger-x
+In 2021, I made 287 contributions and modified 24,000 lines of code. Check out my GitHub Wrapped and create your own at [ronger's GitHub Wrapped](https://githubtrends.io/wrapped/ronger-x)
