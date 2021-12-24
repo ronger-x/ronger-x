@@ -6,12 +6,16 @@
 - [nebula](https://github.com/rymcu/nebula) —— 一款现代化的知识社区前台项目,使用 Vue + NuxtJS + Element-UI 实现, 与 [forest](https://github.com/rymcu/forest) 配套
 - [forest](https://github.com/rymcu/forest) —— 一款使用 SpringBoot + MyBatis + MySQL 实现的知识社区后台项目, 与 [nebula](https://github.com/rymcu/nebula) 配套
 
-[![GitHub followers](https://img.shields.io/github/followers/ronger-x?style=for-the-badge&color=blue)](https://github.com/ronger-x?tab=followers)
-[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Blog&url=https://rymcu.com/user/ronger)](https://rymcu.com/user/ronger)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ronger-x/ronger-x?label=update&style=for-the-badge&color=orange)](https://github.com/ronger-x/ronger-x)
 
-![ronger's github stats](https://github-profile-trophy.vercel.app/?username=ronger-x)
-![ronger's github stats](https://github-readme-stats.yxl76.vercel.app/api?username=ronger-x&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.yxl76.vercel.app/api/top-langs/?username=ronger-x&layout=compact)
+[ronger's GitHub Wrapped](https://githubtrends.io/wrapped/ronger-x)
 
-In 2021, I made 287 contributions and modified 24,000 lines of code. Check out my GitHub Wrapped and create your own at [ronger's GitHub Wrapped](https://githubtrends.io/wrapped/ronger-x)
+[![wakatime](https://wakatime.com/badge/user/2a375921-ee14-4f9a-b63e-914c04a9a03d.svg)](https://wakatime.com/@2a375921-ee14-4f9a-b63e-914c04a9a03d)
+[![](https://img.shields.io/badge/-Blog-2196f3?style=flat-square&logo=blogger&logoColor=white&link=https://rymcu.com/user/ronger)](https://rymcu.com/user/ronger)
+
+
+![github stats](https://github-readme-stats.vercel.app/api/?username=ronger-x&show_icons=true&hide_title=true)
+
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronger&layout=compact)
+
+In 2021, I made 287 contributions and modified 24,000 lines of code. 
