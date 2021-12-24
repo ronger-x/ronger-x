@@ -16,6 +16,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api/?username=ronger-x&show_icons=true&hide_title=true)
 
 
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ronger&layout=compact)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ronger&layout=compact)
 
 In 2021, I made 287 contributions and modified 24,000 lines of code. 
